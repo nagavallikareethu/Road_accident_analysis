@@ -57,7 +57,7 @@ This dashboard highlights critical insights into road accidents, offering action
 By leveraging these insights, targeted measures can be implemented to reduce accidents and enhance public safety.
 
 
-![Uploading WhatsApp Image 2024-11-19 at 11.47.37_70813b68.jpg…]()
+![Screenshot 2024-11-28 144511](https://github.com/user-attachments/assets/2856cd86-7bf2-4575-bac8-8a6c1d0653b0)
 
 
 
