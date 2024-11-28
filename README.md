@@ -36,7 +36,7 @@ Monthly Trend: Includes time-series data for casualties across months in 2021 an
 Road Type: Highlights accident data categorized by road types like "One way street" and "Slip road."
 Data Analysis: Provides summaries and primary KPIs such as total casualties (e.g., 134,613).
 
-##Key KPIs Included
+##Key KPIs Included:-
 Total Casualties: 134,613
 Monthly Trend Analysis (2021):
    January: 11,007 casualties
@@ -51,7 +51,7 @@ Code Link:-
 -<a href="https://1drv.ms/x/c/41a402b5a0aac67b/EaRN2TcbTAxFgFg6gL-M750B7ZXLoR_1YqyPLOF9R_B_WA?e=zel1fN">Excel file</a>
 -<a href="C:\Users\nagav\OneDrive\Desktop\excel\Road Accident Data.xlsx">
 
-##Conclusion
+##Conclusion:-
 This dashboard highlights critical insights into road accidents, offering actionable data for policymakers and traffic authorities to improve road safety. The monthly trends reveal accident peaks, while road type analysis identifies high-risk areas.
 
 By leveraging these insights, targeted measures can be implemented to reduce accidents and enhance public safety.
